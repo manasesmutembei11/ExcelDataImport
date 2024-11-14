@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kucc1TQMZYt7FMBtcQzwl1utMYC/RvqmwLAQ5yOlv9M=",
+  "Source": "ExcelDataImport",
+  "BasePath": "_content/ExcelDataImport",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

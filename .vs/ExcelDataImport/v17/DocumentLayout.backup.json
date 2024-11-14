@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LEARN\\ExcelDataImport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A27DD-AF2B-43B7-ACDD-757C9A084380}|ExcelDataImport\\ExcelDataImport.csproj|c:\\learn\\exceldataimport\\exceldataimport\\controllers\\importcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A27DD-AF2B-43B7-ACDD-757C9A084380}|ExcelDataImport\\ExcelDataImport.csproj|solutionrelative:exceldataimport\\controllers\\importcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A27DD-AF2B-43B7-ACDD-757C9A084380}|ExcelDataImport\\ExcelDataImport.csproj|c:\\learn\\exceldataimport\\exceldataimport\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A27DD-AF2B-43B7-ACDD-757C9A084380}|ExcelDataImport\\ExcelDataImport.csproj|solutionrelative:exceldataimport\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A27DD-AF2B-43B7-ACDD-757C9A084380}|ExcelDataImport\\ExcelDataImport.csproj|c:\\learn\\exceldataimport\\exceldataimport\\models\\expaqclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A27DD-AF2B-43B7-ACDD-757C9A084380}|ExcelDataImport\\ExcelDataImport.csproj|solutionrelative:exceldataimport\\models\\expaqclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A27DD-AF2B-43B7-ACDD-757C9A084380}|ExcelDataImport\\ExcelDataImport.csproj|c:\\learn\\exceldataimport\\exceldataimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A27DD-AF2B-43B7-ACDD-757C9A084380}|ExcelDataImport\\ExcelDataImport.csproj|solutionrelative:exceldataimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LEARN\\ExcelDataImport\\ExcelDataImport\\Program.cs",
+              "RelativeDocumentMoniker": "ExcelDataImport\\Program.cs",
+              "ToolTip": "C:\\LEARN\\ExcelDataImport\\ExcelDataImport\\Program.cs",
+              "RelativeToolTip": "ExcelDataImport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:25:58.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\LEARN\\ExcelDataImport\\ExcelDataImport\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExcelDataImport\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\LEARN\\ExcelDataImport\\ExcelDataImport\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExcelDataImport\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:44:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpaqClaim.cs",
+              "DocumentMoniker": "C:\\LEARN\\ExcelDataImport\\ExcelDataImport\\Models\\ExpaqClaim.cs",
+              "RelativeDocumentMoniker": "ExcelDataImport\\Models\\ExpaqClaim.cs",
+              "ToolTip": "C:\\LEARN\\ExcelDataImport\\ExcelDataImport\\Models\\ExpaqClaim.cs",
+              "RelativeToolTip": "ExcelDataImport\\Models\\ExpaqClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:42:42.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImportController.cs",
+              "DocumentMoniker": "C:\\LEARN\\ExcelDataImport\\ExcelDataImport\\Controllers\\ImportController.cs",
+              "RelativeDocumentMoniker": "ExcelDataImport\\Controllers\\ImportController.cs",
+              "ToolTip": "C:\\LEARN\\ExcelDataImport\\ExcelDataImport\\Controllers\\ImportController.cs",
+              "RelativeToolTip": "ExcelDataImport\\Controllers\\ImportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:49:49.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
