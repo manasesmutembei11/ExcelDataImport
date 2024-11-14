@@ -1,0 +1,6 @@
+# Ignore the FavoritesList directory
+.cr/
+
+# Ignore the .vs directory (Visual Studio)
+.vs/
+
