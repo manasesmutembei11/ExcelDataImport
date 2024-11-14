@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using Syncfusion.Licensing;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,8 +6,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-SyncfusionLicenseProvider.RegisterLicense(" ");
 
 builder.Services.AddCors(options =>
 {

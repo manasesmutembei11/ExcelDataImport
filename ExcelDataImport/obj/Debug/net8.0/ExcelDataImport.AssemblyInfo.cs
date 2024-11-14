@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("280a9100-6244-4349-bb11-c3417f16783c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExcelDataImport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+082534a25c311381aec197cc8f47a85707169af4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExcelDataImport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExcelDataImport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

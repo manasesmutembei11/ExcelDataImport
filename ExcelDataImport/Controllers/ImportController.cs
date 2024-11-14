@@ -106,7 +106,7 @@ namespace ExcelDataImport.Controllers
             if (string.IsNullOrWhiteSpace(claim.Year))
                 errorMessages.Add("Year is required.");
             if (claim.LossDate.HasValue && claim.LossDate > DateTime.Now)
-                errorMessages.Add("LossDate cannot be in the future.");
+                errorMessages.Add("LossDate cannot be in future.");
 
             return (errorMessages.Count == 0, string.Join("; ", errorMessages));
         }
