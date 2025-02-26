@@ -170,3 +170,7 @@ C:\LEARN\ExcelDataImport\ExcelDataImport\obj\Debug\net8.0\ExcelDataImport.pdb
 C:\LEARN\ExcelDataImport\ExcelDataImport\obj\Debug\net8.0\ExcelDataImport.genruntimeconfig.cache
 C:\LEARN\ExcelDataImport\ExcelDataImport\obj\Debug\net8.0\ref\ExcelDataImport.dll
 C:\LEARN\ExcelDataImport\ExcelDataImport\obj\Debug\net8.0\ExcelDataImport.sourcelink.json
+C:\LEARN\ExcelDataImport\ExcelDataImport\bin\Debug\net8.0\ExcelDataImport.staticwebassets.endpoints.json
+C:\LEARN\ExcelDataImport\ExcelDataImport\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\LEARN\ExcelDataImport\ExcelDataImport\obj\Debug\net8.0\staticwebassets\msbuild.ExcelDataImport.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\LEARN\ExcelDataImport\ExcelDataImport\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

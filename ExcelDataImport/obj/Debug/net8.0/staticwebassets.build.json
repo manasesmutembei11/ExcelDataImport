@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "kucc1TQMZYt7FMBtcQzwl1utMYC/RvqmwLAQ5yOlv9M=",
+  "Hash": "QJS4Pg+HkzPzw6NIti6zO/9e9V36lVekmBPb2mb3C5k=",
   "Source": "ExcelDataImport",
   "BasePath": "_content/ExcelDataImport",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
