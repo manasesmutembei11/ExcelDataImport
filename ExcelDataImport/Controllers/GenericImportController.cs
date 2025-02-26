@@ -96,10 +96,9 @@ namespace ExcelDataImport.Controllers
         {
             foreach (var row in data)
             {
-                // Ensure Id is added if not provided
                 if (!row.ContainsKey("Id"))
                 {
-                    row["Id"] = Guid.NewGuid();  // Assign a new GUID if not provided
+                    row["Id"] = Guid.NewGuid(); 
                 }
 
                 var columns = string.Join(", ", row.Keys);

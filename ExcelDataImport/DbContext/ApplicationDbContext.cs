@@ -8,4 +8,5 @@ public class ApplicationDbContext : DbContext
     {
     }
     public DbSet<ExpaqClaim> Claims { get; set; }
+    public DbSet<CargoType> CargoTypes { get; set; }
 }
